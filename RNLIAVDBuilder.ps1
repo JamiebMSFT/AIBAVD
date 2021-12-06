@@ -24,7 +24,7 @@ Import-Module Az.Accounts
 $currentAzContext = Get-AzContext
 
 # destination image resource group
-$imageResourceGroup="RNLI-AVDImages"
+$imageResourceGroup="RG-WVD-NE"
 
 # location (see possible locations in main docs)
 $location="NorthEurope"

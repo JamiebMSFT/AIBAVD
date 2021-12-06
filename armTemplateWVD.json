@@ -86,7 +86,7 @@
                         "name": "Install Apps",
                         "runElevated": true,
                         "runAsSystem": true,
-                        "scriptUri": "https://github.com/JamiebMSFT/AIBAVD/blob/main/3_InstallApps.ps1"
+                        "scriptUri": "https://raw.githubusercontent.com/JamiebMSFT/AIBAVD/main/3_InstallApps.ps1"
                     },
                     {
                         "type": "WindowsRestart",
